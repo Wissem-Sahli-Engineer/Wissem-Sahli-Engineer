@@ -1,4 +1,13 @@
-# 💫 About Me:
+<h1 align="center">Hi there, I'm Wissem Sahli 👋</h1>
+<h3 align="center"> Data Science Engineer - Software Freelancer | Turning ideas into powerful digital experiences</h3>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
+
+# 🚀 About Me:
 🔭 Working on portfolios, websites, and a new ML/AI project<br>🌱 Studying Business Analytics & learning advanced web dev<br>👯 Open to collaborating on React, Data analysis, and AI projects<br>💬 Ask me about web dev, dashboards, and Python<br>⚡ Fun fact: I learn new tech faster than I finish my coffee.
 
 
@@ -22,3 +31,6 @@
 [![](https://visitcount.itsvg.in/api?id=Wissem-Sahli-Engineer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  ⚡ _“Code is like magic — if you know the spell, you can build anything.”_
+</p>
